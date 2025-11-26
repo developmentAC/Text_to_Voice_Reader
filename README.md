@@ -6,7 +6,7 @@ Oliver Bonham-Carter
 
 Email: obonhamcarter at allegheny.edu
 
-A powerful, cross-platform Text-to-Voice (T2V) program written in Rust that converts text files into spoken audio with customizable voices and speaking rates. T2V helps the user to listen to text files using system T2V engines, making it ideal for accessibility, learning, and multitasking.
+A powerful, cross-platform Text-to-Voice (T2V) program written in Rust that converts text files into spoken audio with customizable voices and speaking rates. T2V helps the user to listen to text files using OS voice engines, making it ideal for accessibility, learning, and multitasking.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 

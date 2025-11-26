@@ -1,0 +1,11 @@
+Welcome to the enhanced text-to-speech program written in Rust!
+
+This program now supports:
+- Custom file selection
+- Multiple voice options
+- Adjustable speaking rates  
+- Cross-platform compatibility
+
+You can use this program on macOS, Windows, and Linux with their respective TTS engines.
+
+Thank you for testing our enhanced features!

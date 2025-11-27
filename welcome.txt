@@ -9,3 +9,4 @@ This program now supports:
 You can use this program on macOS, Windows, and Linux with their respective TTS engines.
 
 Thank you for testing our enhanced features!
+
